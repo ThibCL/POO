@@ -11,7 +11,8 @@ public class Archer extends Personnage {
 	//je suis thibault et j'effectue changement aussi	
 	//crotte
 	//test final
-	
 	//mal
+	//nor
+
 }
 
