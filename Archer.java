@@ -12,7 +12,7 @@ public class Archer extends Personnage {
 	//je rajoute du texxt et je suis matho
 
 	//ca arrive
-
+	//toujours plus
 	//c la merde
 
 
