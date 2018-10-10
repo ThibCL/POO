@@ -13,6 +13,7 @@ public class Archer extends Personnage {
 	//test final
 	//mal
 	//nor
+	//mall
 
 }
 
