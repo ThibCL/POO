@@ -7,7 +7,7 @@ package org.centrale.projet.objet;
  */
 public class Archer extends Personnage {
 	//on fait juste un test
-
+	//damn
 	//je suis thibault et j'effectue changement aussi
 	//je rajoute du texxt et je suis matho
 	
